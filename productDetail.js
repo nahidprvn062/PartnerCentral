@@ -19,3 +19,4 @@ export default class productDetail extends LightningElement {
 // }
   
 }
+// First Commit BY Nahid.
